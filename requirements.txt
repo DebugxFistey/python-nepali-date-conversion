@@ -1,0 +1,2 @@
+nepali-datetime==1.0.7
+bikram==2.1.0
