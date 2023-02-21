@@ -11,6 +11,7 @@
 ### **Requirements**
   The requirement is included in the requirements.txt
   - tkinter
+  - tkcalander
   - nepali_datetime
   - bikram
   
@@ -18,3 +19,10 @@
 pip install -r requirements.txt 
 
 python date_conversion.py
+
+
+### **Screenshot**
+![1](screenshot/1.jpg)
+![2](screenshot/2.jpg)
+![3](screenshot/3.jpg)
+![4](screenshot/4.jpg)
