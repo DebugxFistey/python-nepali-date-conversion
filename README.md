@@ -22,7 +22,7 @@ python date_conversion.py
 
 
 ### **Screenshot**
-![1](/screenshot/1.jpg)
-![2](/screenshot/2.jpg)
-![3](/screenshot/3.jpg)
-![4](/screenshot/4.jpg)
+![1](https://github.com/DebugxFistey/python-nepali-date-conversion/blob/main/screenshot/1.png?raw=true)
+![2](https://github.com/DebugxFistey/python-nepali-date-conversion/blob/main/screenshot/2.png?raw=true)
+![3](https://github.com/DebugxFistey/python-nepali-date-conversion/blob/main/screenshot/3.png?raw=true)
+![4](https://github.com/DebugxFistey/python-nepali-date-conversion/blob/main/screenshot/4.png?raw=true)
